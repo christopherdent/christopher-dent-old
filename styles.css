@@ -1,0 +1,137 @@
+.heading{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ .container {
+
+  height: auto;
+  position: relative;
+  border: 3px solid black;
+   display: flex;
+  padding: 23;
+}
+
+#projectscontainer {
+ display: flex;
+ position: relative;
+}
+
+table {
+  text-align:center;
+  table-layout: fixed;
+  padding-right:10px
+}
+
+h1 {
+   color: black;
+   text-align:center;
+}
+
+p {
+  text-align: left;
+}
+
+h3 {
+   color: black;
+   text-align:center;
+}
+
+#about{
+  max-width: 1200px;
+}
+
+/* div {
+ padding-top: 50px;
+ padding-right: 10px;
+ padding-bottom: 10px;
+ padding-left: 10px;
+} */
+
+.card {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+#us{
+  max-width: 15%;
+  max-height: 15%;
+  margin: auto;
+  display: block;
+}
+
+#about{
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+#cellOne {
+  padding-right:30px;
+  padding-left:30px;
+}
+
+#cellTwo {
+  padding-right:30px;
+  padding-left:30px;
+}
+
+#cellThree {
+  padding-right:30px;
+  padding-left:30px;
+}
+
+.hr {
+border-top: 1px solid red;
+}
+
+h1.page-title {
+color: cyan;
+font-family: 'Roboto', "Ariel", monospace;
+font-style: italic;
+font-weight: 400;
+src: url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2) format('woff2');
+unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+font-size: 500%;
+}
+
+
+ /* #main {
+  border: 0px
+}
+
+.card {
+  max-width: 300px;
+  width: 300px;
+  height: 600px;
+  flex: 1;
+  margin-right: 5px;
+  border: 3px solid black;
+  display: inline-block;
+}
+
+.card img {
+  max-width: 100%;
+  max-height: 100%;
+  height: 175px;
+  width: 300px;
+  margin: auto;
+  display: block;
+}
+
+
+
+ #cardText {
+  color: blue
+}
+
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+} */
