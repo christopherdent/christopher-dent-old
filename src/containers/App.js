@@ -35,7 +35,7 @@ render() {
       <br />
       <center>
     <img src='https://defaultcustomheadersdata.files.wordpress.com/2016/07/city1.jpg?resize=1750,300' />
-  <h1 className='page-title'> CHRISTOPHER DENTO </h1></center>
+  <h1 className='page-title'> CHRISTOPHER DENT </h1></center>
       <br /><br /><br />
 
         <ProjectsList
