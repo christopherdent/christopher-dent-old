@@ -6,7 +6,7 @@ import { Accordion, Button, Card, CardColumns, Image, Table } from 'react-bootst
 
 
 const AboutMe = (props) => {
-//try to make text wrap around image.  You will use a more generic image as the hero, like the one on godaddy.
+
     // {props.aboutMe}  same as sending <AboutTable /> and its props down
   return (
 
@@ -29,7 +29,7 @@ const AboutMe = (props) => {
     </Accordion>
     </center>
 <br />
-<ColoredLine color="midnightblue" />
+<ColoredLine color="steelblue" />
 </React.Fragment>
   )
 

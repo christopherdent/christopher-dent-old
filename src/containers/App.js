@@ -69,6 +69,7 @@ render() {
       <MyBlog />
 
       </main>
+      <center><div className='footer'>Copyright © 2021 christopher dent - All Rights Reserved.</div></center>
     </div>
     );
   }
