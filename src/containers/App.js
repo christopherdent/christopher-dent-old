@@ -4,6 +4,7 @@ import ProjectCard from '../components/ProjectCard'
 import ProjectsList from '../components/ProjectsList'
 import Testing from '../components/Testing'
 import AboutMe from '../components/AboutMe'
+import MenuBar from '../components/MenuBar'
 import projects from '../data.js'
 import { Card, CardGroup, Container, CardColumns, Col, Image } from 'react-bootstrap';
 
@@ -32,6 +33,7 @@ render() {
 
     <div className="App">
       <main>
+      <MenuBar />
       <br />
       <center>
     <img src='https://defaultcustomheadersdata.files.wordpress.com/2016/07/city1.jpg?resize=1750,300' />
