@@ -10,7 +10,7 @@ const ProjectsList = (props) => {
     <div>
 <ColoredLine color="grey" />
         <h1 className='heading' id='projects'>My Projects</h1>
-
+<br />
            <CardDeck>
              {props.listProjects}
             </CardDeck>

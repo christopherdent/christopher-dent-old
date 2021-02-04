@@ -5,6 +5,7 @@ import ProjectsList from '../components/ProjectsList'
 import AboutTable from '../components/AboutTable'
 import Testing from '../components/Testing'
 import AboutMe from '../components/AboutMe'
+import MyBlog from '../components/MyBlog'
 import MenuBar from '../components/MenuBar'
 import projects from '../project_data.js'
 import medata from '../about_data.js'
@@ -53,15 +54,20 @@ render() {
       <br />
       <center>
     <img src='https://defaultcustomheadersdata.files.wordpress.com/2016/07/city1.jpg?resize=1750,300' />
+    <br /><br />
   <h1 className='page-title'> CHRISTOPHER DENT </h1></center>
-      <br /><br /><br />
+      <br /><br />
 
-        <ProjectsList
-        listProjects={this.listProjects()}
-         />
-       <AboutMe
+      <ProjectsList
+      listProjects={this.listProjects()}
+       />
+
+      <AboutMe
        aboutMe={this.aboutMe()}
        />
+
+      <MyBlog />
+
       </main>
     </div>
     );
