@@ -2,11 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import ProjectCard from '../components/ProjectCard'
 import ProjectsList from '../components/ProjectsList'
+import AboutTable from '../components/AboutTable'
 import Testing from '../components/Testing'
 import AboutMe from '../components/AboutMe'
 import MenuBar from '../components/MenuBar'
-import projects from '../data.js'
-import { Card, CardGroup, Container, CardColumns, Col, Image } from 'react-bootstrap';
+import projects from '../project_data.js'
+import medata from '../about_data.js'
+import { Card, CardGroup, Container, CardColumns, Col, Image, Table } from 'react-bootstrap';
 
 
 
@@ -17,15 +19,29 @@ class App extends React.Component {
     this.state = { }
   }
 
+  componentDidMount() {
+      document.body.style.backgroundColor = "darkgrey"
+  }
+
  listProjects = () => {
   return projects.map((project, index) =>
-      <ProjectCard key = {index}
+      <ProjectCard
+        key = {index}
         name = {project.name}
         imageUrl= {project.imageUrl}
         appUrl = {project.appUrl}
         demoUrl = {project.demoUrl}
         description = {project.description} />)
     }
+
+  aboutMe = ()  =>  {
+    return medata.map((section, index) =>
+   <AboutTable
+      key={index}
+      title= {section.title}
+      description= {section.description}
+   />)
+  }
 
 
 render() {
@@ -43,7 +59,9 @@ render() {
         <ProjectsList
         listProjects={this.listProjects()}
          />
-       <AboutMe />
+       <AboutMe
+       aboutMe={this.aboutMe()}
+       />
       </main>
     </div>
     );

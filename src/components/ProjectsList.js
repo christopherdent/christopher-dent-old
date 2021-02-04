@@ -9,7 +9,7 @@ const ProjectsList = (props) => {
   return (
     <div>
 <ColoredLine color="grey" />
-        <h1 className='heading'>My Projects</h1>
+        <h1 className='heading' id='projects'>My Projects</h1>
 
            <CardDeck>
              {props.listProjects}
