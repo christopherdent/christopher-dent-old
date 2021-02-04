@@ -81,7 +81,7 @@ border-top: 1px solid red;
 }
 
 h1.page-title {
-color: black;
+color: midnightblue;
 font-family: 'Roboto', "Ariel", monospace;
 font-style: italic;
 font-weight: 400;
@@ -100,7 +100,9 @@ Navbar {
   margin-right: auto;
   width: 40%;
 }
-
+#desc {
+  text-align: left;
+}
 
 /* <tr style="height:100px">
    <th style="vertical-align:bottom">Month</th>

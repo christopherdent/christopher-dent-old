@@ -29,7 +29,7 @@ const AboutMe = (props) => {
     </Accordion>
     </center>
 <br />
-<ColoredLine color="grey" />
+<ColoredLine color="midnightblue" />
 </React.Fragment>
   )
 
