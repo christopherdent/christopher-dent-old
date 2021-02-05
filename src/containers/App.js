@@ -7,6 +7,7 @@ import Testing from '../components/Testing'
 import AboutMe from '../components/AboutMe'
 import MyBlog from '../components/MyBlog'
 import MenuBar from '../components/MenuBar'
+import Social from '../components/Social'
 import projects from '../project_data.js'
 import medata from '../about_data.js'
 import { Card, CardGroup, Container, CardColumns, Col, Image, Table } from 'react-bootstrap';
@@ -67,7 +68,7 @@ render() {
        />
 
       <MyBlog />
-
+      <Social />
       </main>
       <center><div className='footer'>Copyright © 2021 christopher dent - All Rights Reserved.</div></center>
     </div>

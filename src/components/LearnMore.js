@@ -8,9 +8,10 @@ const LearnMore = (props) => {
   <h3>About Chris</h3><br/>
   <img src="https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/42374712_10216547801503139_152879648663928832_o.jpg?_nc_cat=101&ccb=2&_nc_sid=84a396&_nc_ohc=7EOabH9V5RsAX9cgg7H&_nc_ht=scontent-mia3-1.xx&oh=11fe16b394a088a244babaf96ec1cf05&oe=6037C30A" id="us"/>
 
+
      <br />
      <p> My name's Chris and I currently live in St. Augustine, Florida (but looking to relocate).  I live here with my
-       wife, our dog Chilito and my cat Calvin (she denies ownership of "that cat").  I grew up in a house in the woods in Sag Harbor, NY (before it was rich) and attended
+       wife, Angelica Garcia-Dent, our dog Chilito and my cat Calvin (she denies ownership of "that cat").  I grew up in a house in the woods in Sag Harbor, NY (before it was rich) and attended
        Pierson High School there.  When I finished that I was excited to move away for college and got accepted to McGill University where I studied Political Science with
        a double major in History.  After briefly returning to Sag, I got a job at a great company in the DC area and moved there to do it; however, by then I had my sights
        set on moving to the UK (my dad is from there) so I just planned to save up in DC until I could afford to make the big move which I did in 2010.  I worked a contract
