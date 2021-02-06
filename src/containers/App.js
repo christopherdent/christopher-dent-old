@@ -10,6 +10,7 @@ import MenuBar from '../components/MenuBar'
 import Social from '../components/Social'
 import projects from '../project_data.js'
 import medata from '../about_data.js'
+import ColoredLine from '../components/ColoredLine'
 import { Card, CardGroup, Container, CardColumns, Col, Image, Table } from 'react-bootstrap';
 
 
@@ -58,16 +59,18 @@ render() {
     <br /><br />
   <h1 className='page-title'> CHRISTOPHER DENT </h1></center>
       <br /><br />
-
+<ColoredLine color="steelblue" />
       <ProjectsList
       listProjects={this.listProjects()}
        />
-
+<ColoredLine color="steelblue" />
       <AboutMe
        aboutMe={this.aboutMe()}
        />
 
+<ColoredLine color="steelblue" />
       <MyBlog />
+<ColoredLine color="steelblue" />
       <Social />
       </main>
       <center><div className='footer'>Copyright © 2021 christopher dent - All Rights Reserved.</div></center>

@@ -2,7 +2,7 @@ import React from 'react';
 import AboutTable from './AboutTable'
 import LearnMore from './LearnMore'
 import ColoredLine from './ColoredLine'
-import { Accordion, Button, Card, CardColumns, Image, Table } from 'react-bootstrap';
+import { Container, Accordion, Button, Card, CardColumns, Image, Table } from 'react-bootstrap';
 
 
 const AboutMe = (props) => {
@@ -11,6 +11,7 @@ const AboutMe = (props) => {
   return (
 
 <React.Fragment>
+  <Container fluid >
 <br /><br />
 <h1 id="about" className='heading'>About Me</h1>
 <br />
@@ -29,7 +30,7 @@ const AboutMe = (props) => {
     </Accordion>
     </center>
 <br />
-<ColoredLine color="steelblue" />
+</Container>
 </React.Fragment>
   )
 

@@ -1,14 +1,16 @@
 import React from 'react';
 import { SocialIcon } from 'react-social-icons';
 import ColoredLine from './ColoredLine'
+import Container from 'react-bootstrap/Container'
+
 
 const Social = (props) => {
 
   return (
 <React.Fragment>
-
+  <Container fluid id='social'>
   <br /><br />
-    <div class='container' id='social'>
+<div id='icon-continer'>
 
       <br />
       <SocialIcon url="https://www.linkedin.com/in/christopher-james-dent/" id='blog' style={{ height: 100, width: 100 }} />
@@ -19,10 +21,12 @@ const Social = (props) => {
 
       <br />
 
-</div>
+
 <br /><br />
 
 <br /><br />
+</div>
+  </Container>
 </React.Fragment>
   )
 }

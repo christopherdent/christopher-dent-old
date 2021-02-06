@@ -7,31 +7,19 @@
   text-align:center;
 }
 
-#social  {
-  width: 655px;
-  margin: auto;
-}
+
 
  .container {
-  height: auto;
-  position: relative;
-  border: 0px solid black;
-  display: flex;
-  padding: 23;
-  text-align:center;
-}
+       position: relative;
+       width: 100%;
+       height: 100%;
+
+ }
 
 #projectscontainer {
  display: flex;
  position: relative;
 }
-
-table {
-  text-align:center;
-  table-layout: fixed;
-  padding-right:10px
-}
-
 
 p {
   text-align: center;
@@ -111,6 +99,39 @@ Navbar {
   height: auto;
 }
 
+.social-svg {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+#social  {
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+  width: 40%;
+}
+
+#icon-continer{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 92%;
+    /* this keeps the social icons centeres */
+}
+
+.blinking{
+    animation:blinkingText 1.2s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #000;    }
+    49%{    color: #000; }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #000;    }
+}
 /* <tr style="height:100px">
    <th style="vertical-align:bottom">Month</th>
    <th style="vertical-align:bottom">Savings</th> */
