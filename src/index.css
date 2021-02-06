@@ -105,6 +105,12 @@ Navbar {
   text-align: left;
 }
 
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 /* <tr style="height:100px">
    <th style="vertical-align:bottom">Month</th>
    <th style="vertical-align:bottom">Savings</th> */

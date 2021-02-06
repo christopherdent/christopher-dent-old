@@ -54,7 +54,7 @@ render() {
       <MenuBar />
       <br />
       <center>
-    <img src='https://defaultcustomheadersdata.files.wordpress.com/2016/07/city1.jpg?resize=1750,300' />
+    <Image src='https://defaultcustomheadersdata.files.wordpress.com/2016/07/city1.jpg?resize=2000,300' fluid />
     <br /><br />
   <h1 className='page-title'> CHRISTOPHER DENT </h1></center>
       <br /><br />
