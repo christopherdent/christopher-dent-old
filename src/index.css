@@ -69,14 +69,12 @@ h3 {
 border-top: 1px solid red;
 }
 
+
 h1.page-title {
-color: midnightblue;
-font-family: 'Roboto', "Ariel", monospace;
+font-family: 'Roboto', sans-serif;
+color: navy;
 font-style: italic;
-font-weight: 400;
-src: url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2) format('woff2');
-unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-font-size: 7vw;
+font-size: 6vw;
 }
 
 Navbar {
@@ -107,16 +105,14 @@ Navbar {
 }
 
 #social  {
-  height: auto;
-  margin: 0 auto;
-  padding-left: 33%;
-  position: relative;
-
+width: 100%;
 }
 
 #icon-continer{
-  display: inline;
-  width: 92%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
 
 .blinking{
@@ -129,40 +125,3 @@ Navbar {
     99%{    color:transparent;  }
     100%{   color: #000;    }
 }
-/* <tr style="height:100px">
-   <th style="vertical-align:bottom">Month</th>
-   <th style="vertical-align:bottom">Savings</th> */
-
-
-
- /* #main {
-  border: 0px
-}
-.card {
-  max-width: 300px;
-  width: 300px;
-  height: 600px;
-  flex: 1;
-  margin-right: 5px;
-  border: 3px solid black;
-  display: inline-block;
-}
-.card img {
-  max-width: 100%;
-  max-height: 100%;
-  height: 175px;
-  width: 300px;
-  margin: auto;
-  display: block;
-}
- #cardText {
-  color: blue
-}
-.center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-} */
