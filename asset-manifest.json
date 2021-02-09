@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/christopher-dent/static/css/main.5266cc64.chunk.css",
+    "main.css": "/christopher-dent/static/css/main.8fd8966a.chunk.css",
     "main.js": "/christopher-dent/static/js/main.291b1471.chunk.js",
     "main.js.map": "/christopher-dent/static/js/main.291b1471.chunk.js.map",
     "runtime-main.js": "/christopher-dent/static/js/runtime-main.d8a1a9cf.js",
@@ -10,14 +10,14 @@
     "static/js/2.6248b115.chunk.js.map": "/christopher-dent/static/js/2.6248b115.chunk.js.map",
     "index.html": "/christopher-dent/index.html",
     "static/css/2.150d169a.chunk.css.map": "/christopher-dent/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.5266cc64.chunk.css.map": "/christopher-dent/static/css/main.5266cc64.chunk.css.map",
+    "static/css/main.8fd8966a.chunk.css.map": "/christopher-dent/static/css/main.8fd8966a.chunk.css.map",
     "static/js/2.6248b115.chunk.js.LICENSE.txt": "/christopher-dent/static/js/2.6248b115.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d8a1a9cf.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.6248b115.chunk.js",
-    "static/css/main.5266cc64.chunk.css",
+    "static/css/main.8fd8966a.chunk.css",
     "static/js/main.291b1471.chunk.js"
   ]
 }
