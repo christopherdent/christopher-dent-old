@@ -109,17 +109,14 @@ Navbar {
 #social  {
   height: auto;
   margin: 0 auto;
-  padding: 10px;
+  padding-left: 33%;
   position: relative;
-  width: 40%;
+
 }
 
 #icon-continer{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: inline;
   width: 92%;
-    /* this keeps the social icons centeres */
 }
 
 .blinking{
