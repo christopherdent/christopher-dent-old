@@ -71,8 +71,10 @@ render() {
 <ColoredLine color="steelblue" />
       <MyBlog />
 <ColoredLine color="steelblue" />
+<center>
       <Social />
-      </main>
+</center>
+    </main>
       <center><div className='footer'>Copyright © 2021 christopher dent - All Rights Reserved.</div></center>
     </div>
     );
