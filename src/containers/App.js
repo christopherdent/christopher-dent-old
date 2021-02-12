@@ -11,7 +11,7 @@ import Social from '../components/Social'
 import projects from '../project_data.js'
 import medata from '../about_data.js'
 import ColoredLine from '../components/ColoredLine'
-import { Card, CardGroup, Container, CardColumns, Col, Image, Table } from 'react-bootstrap';
+import { Image } from 'react-bootstrap';
 
 
 
