@@ -125,3 +125,6 @@ width: 100%;
     99%{    color:transparent;  }
     100%{   color: #000;    }
 }
+#bio-text {
+  text-align: left;
+}
