@@ -9,7 +9,7 @@ const LearnMore = (props) => {
 
 <Table>
 <tr><td><br />
-  <Image src="https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/42374712_10216547801503139_152879648663928832_o.jpg?_nc_cat=101&ccb=2&_nc_sid=84a396&_nc_ohc=7EOabH9V5RsAX9cgg7H&_nc_ht=scontent-mia3-1.xx&oh=11fe16b394a088a244babaf96ec1cf05&oe=6037C30A" id="us" rounded fluid />
+  <Image src="https://cjdportfolio.s3.amazonaws.com/20210307_182907.jpg" id="us" rounded fluid />
 </td>
 <td></td>
 <td>
