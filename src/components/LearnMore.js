@@ -26,7 +26,7 @@ const LearnMore = (props) => {
       about how to build computers (which I did) and finally, how to build software.  The height of this was a text based game (I SO wish I could recover) I wrote on
       C++ based on my middle school pals and distributed to them all on 3.5" floppies.  Good times.  Then, I went to college, majored in something completely unrelated and forgot all about it - something I have been regretting for years.  The choice was clear, I wanted to learn to code.
     </p>
-    <p className="bio-text">
+    <p className="bio-text"><br /> 
      I spent the last year or so in Flatiron School's Self-Paced Online Coding Bootcamp and graduated in December, 2020 as a full-fledged software engineer.  So welcome to my portfolio site which contains the fruits of my studies in the "My Projects" section above.  I do my coding on Linux and I can work with Ruby/Rails, Rack (Sinatra), JavaScript, React/Redux and some basic C++, but I'm learning more every day, and that is my favorite thing about coding.
     </p>
     </div>
