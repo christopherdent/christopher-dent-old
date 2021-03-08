@@ -35,13 +35,6 @@ h3 {
   max-width: 1200px;
 }
 
-/* div {
- padding-top: 50px;
- padding-right: 10px;
- padding-bottom: 10px;
- padding-left: 10px;
-} */
-
 .card {
   padding-top: 10px;
   padding-right: 10px;
@@ -77,11 +70,15 @@ h1.page-title {
   font-family: 'Special Elite', cursive;
   color: black;
   text-decoration: none;
-/* font-family: 'Roboto', sans-serif;
-color: black;
-font-style: italic; */
+  font-size: 6vw;
+}
 
-font-size: 6vw;
+h4.page-title {
+  font-family: 'Special Elite', cursive;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+  /* font-size: 6vw; */
 }
 
 Navbar {
