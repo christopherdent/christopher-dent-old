@@ -50,10 +50,12 @@ h3 {
 }
 
 #us{
-  max-width: 115%;
-  max-height: 100%;
+  max-width: 225%;
+  max-height: 120%;
   margin: auto;
-  display: inline;
+  display: inline-block;
+  padding-right: 5px;
+
 }
 
 #about{
