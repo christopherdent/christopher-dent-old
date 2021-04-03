@@ -24,7 +24,7 @@ const projects = [
   {
     name: 'Dinofinder 2020',
     imageUrl: 'https://adventuredinosaurs.com/wp-content/uploads/2020/07/raptor-dinosaur-habitat-adventuredinosaurs.jpg',
-    appUrl: 'https://christopherdent.github.io/dinofinder-frontend/',
+    appUrl: 'https://christopherdent.github.io/dinofinder2020/',
     demoUrl: 'https://www.youtube.com/watch?v=-Cb8YUDdgC4',
     description: 'The prehistoric card collection anyone can edit.'
   },
