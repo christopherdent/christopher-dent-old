@@ -1,7 +1,5 @@
 import React from 'react';
-import ProjectCard from './ProjectCard'
-
-import { Row, CardDeck, Container } from 'react-bootstrap';
+import { CardDeck, Container } from 'react-bootstrap';
 
 
 const ProjectsList = (props) => {

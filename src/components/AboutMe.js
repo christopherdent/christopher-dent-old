@@ -1,8 +1,6 @@
 import React from 'react';
-import AboutTable from './AboutTable'
 import LearnMore from './LearnMore'
-import ColoredLine from './ColoredLine'
-import { Container, Accordion, Button, Card, CardColumns, Image, Table } from 'react-bootstrap';
+import { Container, Accordion, Button, CardColumns } from 'react-bootstrap';
 
 
 const AboutMe = (props) => {

@@ -1,8 +1,5 @@
 import React from 'react';
-import AboutTable from './AboutTable'
-import LearnMore from './LearnMore'
-import ColoredLine from './ColoredLine'
-import { Jumbotron, Accordion, Button, Card, CardColumns, Image, Table, Container} from 'react-bootstrap';
+import { Image, Container} from 'react-bootstrap';
 
 
 const MyBlog = (props) => {

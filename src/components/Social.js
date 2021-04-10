@@ -1,6 +1,5 @@
 import React from 'react';
 import { SocialIcon } from 'react-social-icons';
-import ColoredLine from './ColoredLine'
 import Container from 'react-bootstrap/Container'
 
 
