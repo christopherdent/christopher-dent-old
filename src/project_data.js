@@ -5,7 +5,7 @@ const projects = [
     imageUrl: 'https://img1.wsimg.com/isteam/ip/61a4c061-55f8-47d5-8bd5-cb2c89e202c9/UduwYH6XvJC5VozALe9oNi-320-80.jpg/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300',
     appUrl: 'http://polar-lake-91544.herokuapp.com/',
     demoUrl: 'https://www.youtube.com/watch?v=H1my0ggLFn4',
-    description: 'A Rack Sinatra app for tracking the latest discoveries in astronomy.'
+    description: 'A Rack Sinatra app for tracking the latest discoveries in astronomy. NEW: Guest access now available.  Just login with username guest, password guest.'
   },
  {
     name: 'Association Volunteer Manager',
