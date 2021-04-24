@@ -5,7 +5,7 @@ import { Navbar, Nav } from 'react-bootstrap';
 const MenuBar = (props) => {
   return (
 <div>
-  <Navbar bg="dark" variant="dark" fixed="top">
+  <Navbar bg="dark" variant="dark" fixed="top" id='nav'>
     <Navbar.Brand href="#home">CjD</Navbar.Brand>
     <Nav className="mr-auto">
       <Nav.Link href="#projects">   Projects   </Nav.Link>
