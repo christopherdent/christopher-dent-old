@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/christopher-dent/static/css/main.c73fe561.chunk.css",
-    "main.js": "/christopher-dent/static/js/main.80c0b33b.chunk.js",
-    "main.js.map": "/christopher-dent/static/js/main.80c0b33b.chunk.js.map",
+    "main.js": "/christopher-dent/static/js/main.2dc47650.chunk.js",
+    "main.js.map": "/christopher-dent/static/js/main.2dc47650.chunk.js.map",
     "runtime-main.js": "/christopher-dent/static/js/runtime-main.d8a1a9cf.js",
     "runtime-main.js.map": "/christopher-dent/static/js/runtime-main.d8a1a9cf.js.map",
     "static/css/2.150d169a.chunk.css": "/christopher-dent/static/css/2.150d169a.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.b55f52c6.chunk.js",
     "static/css/main.c73fe561.chunk.css",
-    "static/js/main.80c0b33b.chunk.js"
+    "static/js/main.2dc47650.chunk.js"
   ]
 }
