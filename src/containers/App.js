@@ -54,7 +54,7 @@ render() {
       <br />
       <center>
     <Image src='https://defaultcustomheadersdata.files.wordpress.com/2016/07/city1.jpg?resize=2000,300' fluid />
-    <br /><br /><br />
+    <br /><br /><br /><br />
 <a href="mailto: christopherdent01@gmail.com">  <h1 className='page-title'> Christopher Dent </h1></a></center>
       <br />
 <ColoredLine color="steelblue" />

@@ -12,7 +12,7 @@ const projects = [
     imageUrl: 'https://img1.wsimg.com/isteam/stock/7903/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300',
     appUrl: 'http://volunteermanager.herokuapp.com/',
     demoUrl: 'https://www.youtube.com/watch?v=v6ifLuecsmA',
-    description: 'A Rails app for managing volunteers and groups of volunteers in an association environment.'
+    description: 'A Rails app for managing volunteers and groups of volunteers in an association environment. Just login with username guest, password guest.'
   },
   {
     name: 'Battle, Ships!',
