@@ -1,6 +1,6 @@
 const projects = [
 
-{
+  {
     name: 'Exoplanet Explorer',
     imageUrl: 'https://img1.wsimg.com/isteam/ip/61a4c061-55f8-47d5-8bd5-cb2c89e202c9/UduwYH6XvJC5VozALe9oNi-320-80.jpg/:/rs=w:600,h:300,cg:true,m/cr=w:600,h:300',
     appUrl: 'http://polar-lake-91544.herokuapp.com/',
@@ -26,7 +26,7 @@ const projects = [
     imageUrl: 'https://adventuredinosaurs.com/wp-content/uploads/2020/07/raptor-dinosaur-habitat-adventuredinosaurs.jpg',
     appUrl: 'https://christopherdent.github.io/dinofinder2020/',
     demoUrl: 'https://www.youtube.com/watch?v=-Cb8YUDdgC4',
-    description: 'The prehistoric card collection anyone can edit.'
+    description: 'A React-based graphical wiki for cataloging prehistoric creatures.  Please feel free to contribute!'
   },
 
 ]
