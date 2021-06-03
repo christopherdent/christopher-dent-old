@@ -32,7 +32,10 @@ class App extends React.Component {
         imageUrl= {project.imageUrl}
         appUrl = {project.appUrl}
         demoUrl = {project.demoUrl}
-        description = {project.description} />)
+        description = {project.description}
+        codeUrl = {project.code}
+        code2 = {project.code2}
+        />)
     }
 
   aboutMe = ()  =>  {
