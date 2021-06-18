@@ -59,7 +59,7 @@ h3 {
 }
 
 #aboutCard  {
-  height: 20rem;
+  height: 25rem;
 }
 
 .hr {
@@ -121,7 +121,7 @@ width: 100%;
 }
 
 .blinking{
-    animation:blinkingText 1.2s infinite;
+    animation:blinkingText 2s infinite;
 }
 @keyframes blinkingText{
     0%{     color: #000;    }
@@ -134,3 +134,8 @@ width: 100%;
   text-align: left;
 }
 
+.card-header{
+
+  font-weight: bold;
+
+}

@@ -6,7 +6,7 @@ const projects = [
     appUrl: 'http://polar-lake-91544.herokuapp.com/',
     demoUrl: 'https://www.youtube.com/watch?v=H1my0ggLFn4',
     code: 'https://github.com/christopherdent/dent-exoplanet-sinatra', 
-    description: 'A Rack Sinatra app for tracking the latest discoveries in astronomy. NEW: Guest access now available.  Just login with username guest, password guest.'
+    description: 'A Sinatra app for tracking the latest discoveries in astronomy. NEW: Guest access now available.  Just login with username guest, password guest.'
   },
  {
     name: 'Association Volunteer Manager',

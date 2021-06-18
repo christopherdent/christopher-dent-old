@@ -12,14 +12,14 @@ const medata = [
   },
  {
    title: 'My Skillset',
-   description: `Postgres, MySQL, Ruby on Rails, React/Redux.  Also comfortable with NodeJS & Angular.  Familiar with but still learning C++.  After that maybe Java.  The learning shall not stop.
+   description: `Postgres, MySQL, Ruby on Rails, React/Redux.  Also comfortable with NodeJS & Angular.  Familiar with but still learning C++.  The learning shall not stop!
    I possess a sharp eye for detail, which I use to find even the weirdest bugs in my code. I work well under pressure and can produce high-quality work in short periods of time. I have strong interpersonal skills and have worked with a wide variety of people in a many different regions (Canada, Scotland, Washington DC, etc.)
    Certified Project Manager (PMI, PRINCE2) and Change Manager (Prosci).  Resume available upon request. ` 
    
   },
   {
     title: 'My Goals',
-    description: "Code is my passion.  I am looking for any and all opportunities to put my coding skills to good use. I'm fascinated with the concept of creating programs from nothing but text. Hoping to make it more than just a hobby someday soon."
+    description: "Code is my passion.  I am looking for any and all opportunities to put my coding skills to good use, ideally leveraging my extensive professional experience. I'm fascinated with the concept of creating programs from nothing but text. Hoping to make it more than just a hobby someday soon."
   },
 
 
