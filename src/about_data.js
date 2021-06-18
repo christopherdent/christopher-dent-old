@@ -19,7 +19,7 @@ const medata = [
   },
   {
     title: 'My Goals',
-    description: "Code is my passion.  I am looking for any and all opportunities to put my coding skills to good use, ideally leveraging my extensive professional experience. I'm fascinated with the concept of creating programs from nothing but text. Hoping to make it more than just a hobby someday soon."
+    description: "Since I was a kid, coding has been my passion.  I am looking for any and all opportunities to put my coding skills to good use, ideally leveraging my extensive professional experience. I'm fascinated with the concept of creating programs from nothing but text. Hoping to make it more than just a hobby someday soon."
   },
 
 
