@@ -20,7 +20,7 @@ const AboutMe = (props) => {
 <center>
   <Accordion>
   <Accordion.Toggle as={Button} eventKey="0">
-      <span>-             Full Bio                -</span>
+      <span> -             Click for My Full Bio              - </span>
         </Accordion.Toggle>
           <Accordion.Collapse eventKey="0">
             <LearnMore />

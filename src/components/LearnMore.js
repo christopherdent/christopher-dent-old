@@ -27,9 +27,9 @@ const LearnMore = (props) => {
     </p>
     <p className="bio-text">{`
      I spent the last year or so in Flatiron School's Self-Paced Online Coding Bootcamp and graduated in December, 2020 with a slew of new skills under my belt.  
-     So welcome to my portfolio site which contains the fruits of my studies in the "My Projects" section above, plus this React site itself.  I'm coding on a ridiculously powerful,
+     So welcome to my portfolio site which contains the fruits of my studies in the "My Projects" section above, plus this React-built site itself.  I'm coding on a ridiculously powerful,
      brand new Sager 8770R I spec'd out myself (graduation present from me, to me) that would make my old Gateway blush (10th gen i7, 32GB DDR4 RAM, Samsung 970EVO Plus SSD, NVIDIA GeForce RTX 3070, Killer WiFi 6, and some other really cool but probably unnecessary  stuff)
-     running on Windows 10 pro with WSL (this is a departure from the pure Linux environment I did most of bootcamp on, but so far, so good) and I can work with Ruby (including Sinatra and Rails frameworks),
+     running on Windows 10 pro with WSL (but to be honest when I'm doing any serious coding I switch back to my Ubuntu laptop) and I can work with Ruby (including Sinatra and Rails frameworks),
      JavaScript, React/Redux, HTML, CSS and some basic C++, but I'm learning more every day, and the continuous learning truly is my favorite thing about this field.`}
    </p>
    </Col>
