@@ -28,7 +28,7 @@ const projects = [
   {
     name: 'Dinofinder 2020',
     imageUrl: 'https://adventuredinosaurs.com/wp-content/uploads/2020/07/raptor-dinosaur-habitat-adventuredinosaurs.jpg',
-    appUrl: 'https://christopherdent.github.io/dinofinder-frontend/',
+    appUrl: 'https://christopherdent.github.io/dinofinder2020/',
     demoUrl: 'https://www.youtube.com/watch?v=-Cb8YUDdgC4',
     code: 'https://github.com/christopherdent/dinofinder-frontend/tree/gh-pages', 
     code2: 'https://github.com/christopherdent/dinofinder-backend',
