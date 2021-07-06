@@ -13,7 +13,7 @@ const ProjectCard = (props) => {
               <Card.Title><center>{props.name}</center></Card.Title>
               <Card.Text id='cardText'>{props.description}</Card.Text>
               <center><p><Card.Link href = {props.appUrl} target="_blank">View Live App</Card.Link></p></center>
-              <center><p><Card.Link href = {props.demoUrl}>View Demo</Card.Link></p></center>
+              
               
 
               { props.code2 ? <center><p><Card.Link href = {props.codeUrl} target="_blank">View Code</Card.Link></p><p><Card.Link href = {props.code2} target="_blank">View Code (Backend)</Card.Link></p></center> : <center><p><Card.Link href = {props.codeUrl} target="_blank">View Code</Card.Link></p></center> }
