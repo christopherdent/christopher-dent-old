@@ -14,7 +14,7 @@ const ProjectsList = (props) => {
              {props.listProjects}
             </CardDeck>
             <br/>
-            <h4 className='page-title'>+ this React-based website itself.  <br/>more coming soon...</h4>
+            <h4 className='page-title'>+ this React-based website itself.  <br/><br/>more coming soon...</h4>
           </Container>
      </React.Fragment>
    )
