@@ -1,5 +1,6 @@
 import React from 'react';
 import { CardDeck, Container } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 
 const ProjectsList = (props) => {
@@ -14,7 +15,7 @@ const ProjectsList = (props) => {
              {props.listProjects}
             </CardDeck>
             <br/>
-            <h4 className='page-title'>+ this React-based website itself.  <br/><br/>more coming soon...</h4>
+            <h4 className='page-title'>+ this React-based website itself <a id='code' href = "http://www.google.com" target="_blank">(code)</a>.  <br/><br/>more coming soon...</h4>
           </Container>
      </React.Fragment>
    )
