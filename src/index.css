@@ -21,13 +21,16 @@
 
 
 
-
+#about {
+  font-family: "Lucida Console", "Courier New", monospace; 
+}
 
 
 
 
 .heading{
-  font-family: "Lucida Console", "Courier New", monospace;
+  /* font-family: "Lucida Console", "Courier New", monospace; */
+  font-family: 'Special Elite', cursive;
   position: relative;
   text-align:center;
 }
