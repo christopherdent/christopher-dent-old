@@ -7,7 +7,24 @@
 #nav {
   font-family: 'Special Elite', cursive;
   font-size: 1.5em;
+  
 }
+
+#nav > div > a {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+}
+
+#nav > div > a:nth-child(1){
+  margin-left: 18em;
+}
+
+
+
+
+
+
+
 
 .heading{
   font-family: "Lucida Console", "Courier New", monospace;
@@ -83,9 +100,9 @@ h4.page-title {
   /* font-size: 6vw; */
 }
 
-Navbar {
+/* Navbar { ///covered by Nav above
   font-size: 203px;
-}
+} */
 
 #blog {
   display: block;
