@@ -23,7 +23,7 @@ const projects = [
     demoUrl: 'https://youtu.be/s5bgUtPluzs',
     code: 'https://github.com/christopherdent/battleships-frontend', 
     code2: 'https://github.com/christopherdent/battleships-backend-api',
-    description: 'Assemble your fleet!  Using real ships from WWII, can you beat the evil computer player?  Find out in this JavaScript-based app.  Note: This app has known issues with Safari so Chrome or Firefox are recommended.'
+    description: 'Assemble your fleet!  Using real ships from WWII, can you beat the evil computer player?  Find out in this JavaScript-based app.  Note: Chrome or Firefox are recommended for this app.'
   },
   {
     name: 'Dinofinder 2020',
