@@ -8,6 +8,7 @@ const MenuBar = (props) => {
   <Navbar bg="dark" variant="dark" fixed="top" id='nav'>
     <Navbar.Brand href="#home">CjD</Navbar.Brand>
     <Nav className="mr-auto">
+    
       <Nav.Link href="#projects">   Projects   </Nav.Link>
       <Nav.Link href="#"></Nav.Link>
       <Nav.Link href="#about">   About Me</Nav.Link>
