@@ -36,10 +36,7 @@
   font-family: "Lucida Console", "Courier New", monospace; 
 }
 
-
-#about{
-  font-family: 'Special Elite', cursive;
-}
+ 
 
 #code{
    
@@ -78,6 +75,8 @@ h3 {
 
 #about{
   max-width: 1200px;
+
+  /* font-size: 100px !important  */
 }
 
 .card {
