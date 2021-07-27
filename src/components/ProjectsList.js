@@ -15,7 +15,7 @@ const ProjectsList = (props) => {
              {props.listProjects}
             </CardDeck>
             <br/>
-            <h4 className='page-title'>+ this React-based website itself <a id='code' href = "http://www.google.com" target="_blank">(code)</a>.  <br/><br/>more coming soon...</h4>
+            <h4 className='page-title'>+ this React-based website itself <a id='code' href = "https://github.com/christopherdent/christopher-dent" target="_blank">(code)</a>.  <br/><br/>more coming soon...</h4>
           </Container>
      </React.Fragment>
    )
