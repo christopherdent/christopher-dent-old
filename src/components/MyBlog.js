@@ -8,7 +8,7 @@ return (
 <React.Fragment>
 <Container fluid >
   <br />
-<span><h5 id="about" className='heading'>Done with bootcamp, not done with learning.  Blogging as I learn. Read, follow, comment!</h5></span>
+<span><h5 id="blog" className='heading'>Done with bootcamp, not done with learning.  Blogging as I learn. Read, follow, comment!</h5></span>
 <br />
 <a href = "https://christopher-dent.medium.com/">
 <Image id='blog' src="https://img1.wsimg.com/isteam/ip/61a4c061-55f8-47d5-8bd5-cb2c89e202c9/family-blog.jpg" fluid />
