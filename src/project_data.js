@@ -7,7 +7,7 @@ const projects = [
     demoUrl: 'https://www.youtube.com/watch?v=-Cb8YUDdgC4',
     code: 'https://github.com/christopherdent/dinofinder-frontend/tree/gh-pages', 
     code2: 'https://github.com/christopherdent/dinofinder-backend',
-    description: 'My personal favorite! A React-based graphical wiki for cataloging prehistoric creatures.  Please feel free to contribute!'
+    description: 'My personal favorite! A React-based graphical wiki for cataloging prehistoric creatures.  Please feel free to contribute!  No login required.'
 
   },
  {
