@@ -13,26 +13,6 @@
   text-align:center;
   margin:auto;
 }
-/* 
-#navbar > a:nth-child(1) {
-  margin-left: 1.1em;
-  margin-right: 1.1em;
-}
-
-#navbar > a:nth-child(2) {
-  margin-left: 1.1em;
-  margin-right: 1.1em;
-}
-
-#navbar > a:nth-child(3) {
-  margin-left: 1.1em;
-  margin-right: 1.1em;
-} */
-
-
-
-
-
 
 
 #about{
@@ -159,6 +139,7 @@ width: 100%;
 
 .blinking{
     animation:blinkingText 2s infinite;
+     
 }
 @keyframes blinkingText{
     0%{     color: #000;    }
@@ -182,6 +163,11 @@ width: 100%;
 
 }
 
-#blog {
+#blog-blink {
   /* font-family:ariel,sans-serif; */
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none !important;
 }
