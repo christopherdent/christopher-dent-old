@@ -25,7 +25,7 @@
 }
 
 .heading{
-  /* font-family: "Lucida Console", "Courier New", monospace; */
+
   font-family: 'Special Elite', cursive;
   position: relative;
   text-align:center;
@@ -78,7 +78,7 @@ h3 {
 }
 
 #aboutCard  {
-  height: 25rem;
+  min-height: 25rem;
 }
 
 .hr {
