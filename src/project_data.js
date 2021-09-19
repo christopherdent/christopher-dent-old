@@ -7,7 +7,7 @@ const projects = [
     demoUrl: 'https://www.youtube.com/watch?v=-Cb8YUDdgC4',
     code: 'https://github.com/christopherdent/dinofinder-frontend/tree/gh-pages', 
     code2: 'https://github.com/christopherdent/dinofinder-backend',
-    description: 'My personal favorite! A React-based graphical wiki for cataloging prehistoric creatures.  Please feel free to contribute!  No login required.'
+    description: 'My favorite project! Built with React frontend and a Rails API backend, DinoFinder2020 is a graphical wiki for cataloging prehistoric creatures.  Please feel free to contribute!  No login required.'
 
   },
  {
@@ -16,7 +16,7 @@ const projects = [
     appUrl: 'http://volunteermanager.herokuapp.com/',
     demoUrl: 'https://www.youtube.com/watch?v=v6ifLuecsmA',
     code: 'https://github.com/christopherdent/VolunteerManager', 
-    description: 'A Rails app for managing volunteers and groups of volunteers in an association environment. Just login with username guest, password guest.'
+    description: 'A Ruby on Rails app for managing volunteers and groups of volunteers at a nonprofit association. Just login with username guest, password guest.'
   },
   {
     name: 'Battle, Ships!',
@@ -25,7 +25,7 @@ const projects = [
     demoUrl: 'https://youtu.be/s5bgUtPluzs',
     code: 'https://github.com/christopherdent/battleships-frontend', 
     code2: 'https://github.com/christopherdent/battleships-backend-api',
-    description: 'Assemble your fleet!  Using real ships from WWII, can you beat the evil computer player?  Find out in this fun web app, built with only HTML, CSS and JS.  Note: Chrome or Firefox are recommended for this app. NEW: React-based Battle, Ships 2 is in development!' 
+    description: 'Assemble your fleet!  Using real ships from WWII, can you beat the evil computer player?  Find out in this fun web app, built with only HTML, CSS and JS and a Rails API backend.  Note: Chrome or Firefox are recommended for this app.' 
   },
   {
     name: 'Exoplanet Explorer',
@@ -33,7 +33,7 @@ const projects = [
     appUrl: 'http://polar-lake-91544.herokuapp.com/',
     demoUrl: 'https://www.youtube.com/watch?v=H1my0ggLFn4',
     code: 'https://github.com/christopherdent/dent-exoplanet-sinatra', 
-    description: 'A Sinatra app for tracking the latest discoveries in astronomy. NEW: Guest access now available.  Just login with username guest, password guest.'
+    description: 'A Sinatra app for tracking the latest discoveries in astronomy. Want a demo? Just login with username guest, password guest.'
 
   },
 
