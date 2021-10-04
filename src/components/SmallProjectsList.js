@@ -13,7 +13,7 @@ const SmallProjectsList = (props) => {
 <p id='desc'>These are a few of my favorite smaller projects/challenges I have completed since graduating from coding school.</p>
 <center>
 
-           <CardDeck>
+           <CardDeck id = 'small-deck'>
              {props.listSmallProjects}
             </CardDeck>
       

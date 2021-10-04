@@ -12,7 +12,7 @@ const smallprojects = [
     },
    {
       name: 'Fundraising Widget',
-      imageUrl: 'https://www.dictionary.com/e/wp-content/uploads/2018/04/under-construction-300x300.jpg',
+      imageUrl: 'https://cjdportfolio.s3.amazonaws.com/Screenshot+from+2021-10-03+23-14-19.png',
       appUrl: 'TBD',
       code: 'TBD', 
       code2: 'https://github.com/christopherdent/challenge0803',
