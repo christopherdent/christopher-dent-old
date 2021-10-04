@@ -1,12 +1,16 @@
 import React from 'react';
 import ProjectCard from '../components/ProjectCard'
+
 import ProjectsList from '../components/ProjectsList'
+import SmallProjectsList from '../components/SmallProjectsList'
+
 import AboutTable from '../components/AboutTable'
 import AboutMe from '../components/AboutMe'
 import MyBlog from '../components/MyBlog'
 import MenuBar from '../components/MenuBar'
 import Social from '../components/Social'
 import projects from '../project_data.js'
+import smallprojects from '../small_project_data.js'
 import medata from '../about_data.js'
 import ColoredLine from '../components/ColoredLine'
 import { Image } from 'react-bootstrap';
@@ -31,12 +35,28 @@ class App extends React.Component {
         name = {project.name}
         imageUrl= {project.imageUrl}
         appUrl = {project.appUrl}
-        demoUrl = {project.demoUrl}
         description = {project.description}
         codeUrl = {project.code}
         code2 = {project.code2}
         />)
     }
+
+
+    listSmallProjects = () => {
+      return smallprojects.map((project, index) =>
+          <ProjectCard
+            key = {index}
+            name = {project.name}
+            imageUrl= {project.imageUrl}
+            appUrl = {project.appUrl}
+            description = {project.description}
+            codeUrl = {project.code}
+            code2 = {project.code2}
+            />)
+        }
+    
+
+    
 
   aboutMe = ()  =>  {
     return medata.map((section, index) =>
@@ -64,6 +84,12 @@ render() {
       <ProjectsList
       listProjects={this.listProjects()}
        />
+
+<ColoredLine color="steelblue" />
+      <SmallProjectsList
+      listSmallProjects={this.listSmallProjects()}
+       />
+
 <ColoredLine color="steelblue" />
       <AboutMe
        aboutMe={this.aboutMe()}

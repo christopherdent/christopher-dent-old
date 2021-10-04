@@ -171,3 +171,8 @@ width: 100%;
 a:hover{
   text-decoration: none !important;
 }
+
+#project-card{
+  /* max-width: 400px;
+    */
+}
