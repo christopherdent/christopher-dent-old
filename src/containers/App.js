@@ -81,6 +81,7 @@ render() {
     <br /><br /><br /><br />
 <a href="mailto: christopherdent01@gmail.com">  <h1 className='page-title'> Christopher Dent </h1></a></center>
       <br />
+      
 <ColoredLine color="steelblue" />
       <ProjectsList
       listProjects={this.listProjects()}

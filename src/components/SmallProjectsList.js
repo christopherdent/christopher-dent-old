@@ -8,7 +8,7 @@ const SmallProjectsList = (props) => {
   return (
     <React.Fragment>
     <Container fluid >
-        <h1 className='heading' id='projects'>Small Projects / Challenges</h1>
+        <h1 className='heading' id='small-projects'>Small Projects / Challenges</h1>
 <br />
 <h5 id='desc'>These are a few of my favorite smaller projects/challenges I have completed since graduating from coding school.</h5>
 <br/>
