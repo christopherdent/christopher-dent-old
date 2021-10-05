@@ -1,6 +1,6 @@
 import React from 'react';
 import ProjectCard from '../components/ProjectCard'
-
+import SmallProjectCard from '../components/SmallProjectCard'
 import ProjectsList from '../components/ProjectsList'
 import SmallProjectsList from '../components/SmallProjectsList'
 
@@ -44,7 +44,7 @@ class App extends React.Component {
 
     listSmallProjects = () => {
       return smallprojects.map((project, index) =>
-          <ProjectCard
+          <SmallProjectCard
             key = {index}
             name = {project.name}
             imageUrl= {project.imageUrl}
@@ -52,6 +52,7 @@ class App extends React.Component {
             description = {project.description}
             codeUrl = {project.code}
             code2 = {project.code2}
+         
             />)
         }
     
