@@ -7,7 +7,7 @@ const smallprojects = [
       demoUrl: '',
       code: 'https://github.com/christopherdent/newsletterExample', 
       code2: 'https://github.com/christopherdent/news-backend',
-      description: 'My first foray into Angular, a simple newsletter signup application.'
+      description: 'My first foray into Angular, a simple newsletter signup application.  Lanch expected mid-October 2021.'
   
     },
    {
@@ -24,7 +24,7 @@ const smallprojects = [
       appUrl: '/',
       code: 'https://github.com/christopherdent/pomagotchi', 
       code2: '/',
-      description: 'A virtual pet pomeranian.  Still in early stages of development.'
+      description: 'A virtual pet pomeranian.  This is just a placeholder; the app is still in early stages of development.'
     },
 
   

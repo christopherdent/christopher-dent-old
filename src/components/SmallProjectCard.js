@@ -6,7 +6,7 @@ const SmallProjectCard = (props) => {
 
   return (
     <React.Fragment>
-      <Card id = 'small-project-card'>
+      <Card id = 'small-project-card' >
 
            <Card.Img src={props.imageUrl} variant="top" width="600" height="250" />
             <Card.Body>

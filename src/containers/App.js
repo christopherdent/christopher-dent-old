@@ -74,30 +74,37 @@ render() {
 
     <div className="App">
       <main>
-      <MenuBar />
+      <MenuBar id='top' />
       <br />
       <center>
     <Image src='https://defaultcustomheadersdata.files.wordpress.com/2016/07/city1.jpg?resize=2000,300' fluid />
     <br /><br /><br /><br />
 <a href="mailto: christopherdent01@gmail.com">  <h1 className='page-title'> Christopher Dent </h1></a></center>
       <br />
-      
+
+
+
+<span id = 'projects1'></span>
 <ColoredLine color="steelblue" />
+
       <ProjectsList
       listProjects={this.listProjects()}
        />
 
-<ColoredLine color="steelblue" />
+<ColoredLine color="steelblue"  />
+ 
       <SmallProjectsList
       listSmallProjects={this.listSmallProjects()}
        />
-
+<span id='about-line'></span>
 <ColoredLine color="steelblue" />
+
       <AboutMe
        aboutMe={this.aboutMe()}
        />
-
+<span id='blog-line'></span>
 <ColoredLine color="steelblue" />
+
       <MyBlog />
 <ColoredLine color="steelblue" />
 <center>

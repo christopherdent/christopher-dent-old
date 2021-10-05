@@ -5,8 +5,8 @@ import { Card } from 'react-bootstrap';
 const AboutTable = (props) => {
 //try to make text wrap around image.  You will use a more generic image as the hero, like the one on godaddy.
   return (
-<React.Fragment>
-
+<div>
+<br/><br/><br/>
   <Card className="text-center" id='aboutCard'>
     <Card.Header>
       {props.title}
@@ -16,7 +16,7 @@ const AboutTable = (props) => {
     </Card.Body>
   </Card>
 
-</React.Fragment>
+</div>
 )
 }
 export default AboutTable

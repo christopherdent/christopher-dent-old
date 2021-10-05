@@ -6,7 +6,7 @@ const ProjectCard = (props) => {
 
   return (
     <React.Fragment>
-      <Card id='project-card'>
+      <Card id='project-card' >
 
             <Card.Img src={props.imageUrl} variant="top" width="600" height="250"/>
             <Card.Body>
