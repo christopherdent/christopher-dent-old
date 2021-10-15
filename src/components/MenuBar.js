@@ -8,7 +8,7 @@ const MenuBar = (props) => {
 
   <Navbar collapseOnSelect bg="dark" variant="dark" fixed="top" id='nav' expand='sm'>
     
-    <Navbar.Brand href="#home">          CjD          </Navbar.Brand>
+    <Navbar.Brand href="#home">   <a href='/'>       CjD</a>         </Navbar.Brand>
    
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       
@@ -16,9 +16,9 @@ const MenuBar = (props) => {
         
           <Nav className="ml-auto" id='navbar'>
     
-            <Nav.Link href="#projects" className='nav-item nav-link mx-4'>Projects</Nav.Link>
-            <Nav.Link href="#about" className='nav-item nav-link mx-4'>About Me</Nav.Link>
-            <Nav.Link href="#blog" className='nav-item nav-link mx-4'>My Blog</Nav.Link>
+            <Nav.Link href="#projects1" className='nav-item nav-link mx-4'>Projects</Nav.Link>
+            <Nav.Link href="#about-line" className='nav-item nav-link mx-4'>About Me</Nav.Link>
+            <Nav.Link href="#blog-line" className='nav-item nav-link mx-4'>My Blog</Nav.Link>
   
           </Nav>
            

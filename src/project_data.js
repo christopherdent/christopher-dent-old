@@ -16,7 +16,7 @@ const projects = [
     appUrl: 'http://volunteermanager.herokuapp.com/',
     demoUrl: 'https://www.youtube.com/watch?v=v6ifLuecsmA',
     code: 'https://github.com/christopherdent/VolunteerManager', 
-    description: 'A Ruby on Rails app for managing volunteers and groups of volunteers at a nonprofit association. Just login with username guest, password guest.'
+    description: 'A Ruby on Rails app for managing volunteers and groups of volunteers at a nonprofit association. This app is in great shape and could be used in production today.  Just login with username guest, password guest.'
   },
   {
     name: 'Battle, Ships!',
@@ -36,6 +36,7 @@ const projects = [
     description: 'A Sinatra app for tracking the latest discoveries in astronomy. Want a demo? Just login with username guest, password guest.'
 
   },
+
 
 ]
 export default projects
