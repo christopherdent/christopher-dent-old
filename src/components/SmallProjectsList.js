@@ -1,7 +1,7 @@
 import React from 'react';
 import { CardDeck, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-
+import Modal from 'react-bootstrap/Modal';
 
 const SmallProjectsList = (props) => {
 
