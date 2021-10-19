@@ -2,7 +2,7 @@ const smallprojects = [
 
     {
       name: 'Angular Newsletter Signup',
-      imageUrl: 'https://www.dictionary.com/e/wp-content/uploads/2018/04/under-construction-300x300.jpg',
+      imageUrl: 'https://cjdportfolio.s3.amazonaws.com/get-newsletter.png',
       appUrl: 'https://christopherdent.github.io/newsletterExample',
       demoUrl: '',
       code: 'https://github.com/christopherdent/newsletterExample', 
