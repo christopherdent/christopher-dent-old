@@ -3,11 +3,11 @@ const smallprojects = [
     {
       name: 'Angular Newsletter Signup',
       imageUrl: 'https://www.dictionary.com/e/wp-content/uploads/2018/04/under-construction-300x300.jpg',
-      appUrl: '',
+      appUrl: 'https://christopherdent.github.io/newsletterExample',
       demoUrl: '',
       code: 'https://github.com/christopherdent/newsletterExample', 
       code2: 'https://github.com/christopherdent/news-backend',
-      description: 'My first foray into Angular, a simple newsletter signup application.  Lanch expected mid-October 2021.'
+      description: 'My first foray into Angular, a simple newsletter signup application.  Now live!'
   
     },
    {

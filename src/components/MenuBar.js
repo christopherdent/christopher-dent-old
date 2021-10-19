@@ -8,7 +8,7 @@ const MenuBar = (props) => {
 
   <Navbar collapseOnSelect bg="dark" variant="dark" fixed="top" id='nav' expand='sm'>
     
-    <Navbar.Brand href="#home">   <a href='/'>       CjD</a>         </Navbar.Brand>
+    <Navbar.Brand href="#home">   <a href='https://christopherdent.github.io/christopher-dent/'>       CjD</a>         </Navbar.Brand>
    
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       
