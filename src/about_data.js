@@ -8,12 +8,11 @@ const medata = [
 
 {
     title: 'My Experience',
-    description: "I graduated from McGill University in Canada with a double major in political science and history back in '04. I've been working in various project management roles pretty much ever since - mostly at a DC-based nonprofit analytical standards development company, but with a brief stint in the UK where I worked contracts for the Royal Bank of Scotland Group and the City of Edinburgh Council.  I've got approximately 12 years project management experiece, all the while learning code in my spare time."
+    description: "I graduated from McGill University in Canada with a double major in political science and history. I've been working in various project management roles pretty much ever since - mostly at a DC-based nonprofit analytical standards development association, but with a brief stint in the UK where I worked contracts for the Royal Bank of Scotland Group and the City of Edinburgh Council.  I've got approximately 12 years project management experiece, all the while learning code in my spare time."
   },
  {
    title: 'My Skillset',
-   description: `Postgres, MySQL, Ruby on Rails, React/Redux.  Also comfortable with NodeJS & Angular.  Familiar with but still learning C++.  The learning shall not stop!
-   I possess a sharp eye for detail, which helps me (eventually) find even the weirdest bugs in my code. I work well under pressure and can produce high-quality work in short periods of time. I have strong interpersonal skills and have worked with a wide variety of people in a many different regions (Canada, Scotland, Washington DC, etc.)  Certified Project Manager (PMI, PRINCE2) and Change Manager (Prosci).  Resume available upon request. ` 
+   description: `Flatiron taught me Ruby, Sinatra, Ruby on Rails, and JavaScript (including React/Redux).  Comfortable with SQL databases including PostgreSQL and MySQL.  More recently taught myself Angular.  Familiar with but still learning C++, Java and various other technologies.  Continuous learning is what I love about code.  I do this in my spare time and only wish I had more time to devote to it!  I have strong organizational skills and international experience across a range of industries.  Certified Project Manager (PMI, PRINCE2) and Change Manager (Prosci).  Resume available upon request. ` 
    
   },
   {

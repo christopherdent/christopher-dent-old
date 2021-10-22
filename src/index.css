@@ -71,6 +71,25 @@ h3 {
 }
 
 
+/* #small-project-card {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 300px;
+  max-height: 625px;
+  border-radius: 10%;
+      
+} */
+ 
+
+#small-project-card > img {
+  max-width: 275px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  border-radius: 10%;
+}
 
 
 #us{
@@ -110,11 +129,14 @@ h4.page-title {
 
 
 #blog {
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+ 
 }
+
+
+
 #desc {
   text-align: left;
 }
@@ -178,24 +200,4 @@ a:hover{
   text-decoration: none !important;
 }
 
-#small-project-card {
-  
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 300px;
-  max-height: 625px;
-  border-radius: 10%;
-      
-}
- 
-
-#small-project-card > img {
-  max-width: 325px;
-  
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  border-radius: 20%;
-}
 
