@@ -25,7 +25,7 @@ const projects = [
     demoUrl: 'https://youtu.be/s5bgUtPluzs',
     code: 'https://github.com/christopherdent/battleships-frontend', 
     code2: 'https://github.com/christopherdent/battleships-backend-api',
-    description: 'Assemble your fleet!  Using real ships from WWII, can you beat the evil computer player?  Find out in this fun web app, built with only HTML, CSS and JS and a Rails API backend.  Note: Chrome or Firefox are recommended for this app.' 
+    description: 'An early project, built with only HTML, CSS and JS and a Rails API backend.  Note: Chrome or Firefox are recommended for this app.' 
   },
   {
     name: 'Exoplanet Explorer',
