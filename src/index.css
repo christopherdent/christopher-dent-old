@@ -3,6 +3,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
 
+#root > div > main {
+
+display: flexbox;
+
+}
+
 
 #nav {
   font-family: 'Special Elite', cursive;
